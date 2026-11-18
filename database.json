@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cricket Bat",
+      "price": 799,
+      "icon": "🏏"
+    },
+    {
+      "id": 2,
+      "name": "Football",
+      "price": 599,
+      "icon": "⚽"
+    },
+    {
+      "id": 3,
+      "name": "Sports Shoes",
+      "price": 999,
+      "icon": "👟"
+    },
+    {
+      "id": 4,
+      "name": "Cricket Ball",
+      "price": 150,
+      "icon": "🔴"
+    },
+    {
+      "id": 5,
+      "name": "Badminton",
+      "price": 450,
+      "icon": "🏸"
+    },
+    {
+      "id": 6,
+      "name": "Basketball",
+      "price": 650,
+      "icon": "🏀"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1795012139350,
+      "name": "imran",
+      "phone": "9999999999",
+      "address": "matwari",
+      "product": "Cricket Bat",
+      "price": 799,
+      "date": "18/11/2026, 7:58:59 pm"
+    },
+    {
+      "id": 1795012452265,
+      "name": "raza",
+      "phone": "1236547890",
+      "address": "tandwa saradhu",
+      "product": "Sports Shoes",
+      "price": 999,
+      "date": "18/11/2026, 8:04:12 pm"
+    }
+  ]
+}
