@@ -1,0 +1,9 @@
+{
+  "name": "atoz-shop",
+  "version": "1.0.0",
+  "description": "A to Z Shop Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
